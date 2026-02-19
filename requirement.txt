@@ -1,0 +1,6 @@
+shiny>=1.0.0
+shinywidgets>=0.2.0
+pandas
+plotly
+numpy
+python 3.12.4
