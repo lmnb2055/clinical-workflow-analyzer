@@ -1,0 +1,29 @@
+﻿prov_deid,metric_group_id,metric_group_desc,event_action_type,access_dt,access_hr,access_wk,is_weekend,is_offhour,gender_id,pgy_group_id
+1,5,Reporting,View,2023-01-15 07-58-02,7,0,1,1,F,4
+2,2,Clinical Notes,View,2023-04-03 15-12-50,15,1,0,0,F,5
+3,7,Patient Demographics,View,2023-04-23 19-04-50,19,0,1,1,M,5
+4,1,Patient Clinical Info,View,2023-02-21 14-06-46,14,2,0,0,F,5
+5,6,Problems,View,2022-11-26 19-20-28,19,6,1,1,M,5
+6,2,Clinical Notes,View,2023-03-23 07-36-54,7,4,0,0,F,5
+7,2,Clinical Notes,View,2023-05-04 07-02-28,7,4,0,0,F,4
+8,1,Patient Clinical Info,View,2023-02-07 01-36-45,1,2,0,1,M,4
+9,3,Orders,View,2022-11-28 15-48-55,15,1,0,0,M,4
+10,9,Medications,View,2022-11-13 19-28-29,19,0,1,1,F,4
+11,1,Patient Clinical Info,View,2023-03-31 14-27-48,14,5,0,0,F,3
+12,5,Reporting,View,2023-06-28 06-44-27,6,3,0,0,F,4
+13,10,Documents,View,2023-02-14 12-13-36,12,2,0,0,M,2
+14,6,Problems,View,2022-12-01 12-24-23,12,4,0,0,F,2
+15,1,Patient Clinical Info,View,2023-02-15 14-52-07,14,3,0,0,F,3
+16,6,Problems,View,2023-02-15 12-33-19,12,3,0,0,M,3
+17,1,Patient Clinical Info,View,2022-11-13 07-39-06,7,0,1,1,M,3
+18,6,Problems,View,2023-01-28 09-09-30,9,6,1,1,M,3
+19,5,Reporting,View,2023-03-23 14-38-52,14,4,0,0,F,2
+20,1,Patient Clinical Info,View,2022-11-14 17-39-38,17,1,0,0,F,2
+21,1,Patient Clinical Info,View,2023-03-13 18-58-34,18,1,0,0,F,2
+22,1,Patient Clinical Info,View,2023-01-16 13-37-50,13,1,0,0,F,2
+23,2,Clinical Notes,View,2022-11-13 07-41-08,7,0,1,1,F,1
+24,1,Patient Clinical Info,View,2022-11-30 13-31-49,13,3,0,0,M,1
+25,5,Reporting,View,2023-05-02 14-56-58,14,2,0,0,M,1
+26,1,Patient Clinical Info,View,2023-05-02 10-52-57,10,2,0,0,M,1
+27,2,Clinical Notes,Modify,2023-04-01 06-33-13,6,6,1,1,F,1
+28,2,Clinical Notes,View,2023-03-10 08-58-18,8,5,0,0,F,1
